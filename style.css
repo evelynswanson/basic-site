@@ -16,7 +16,6 @@ h1 {
 h2, ul {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: small;
-    font-style: italic;
     line-height: 1.5;
     color: rgb(212, 50, 131);
     margin: auto;
@@ -27,7 +26,6 @@ p, li {
     font-size: small;
     line-height: 1.5;
     color: rgb(3, 29, 38);
-    font-style: normal;
 }
 
 .link {
